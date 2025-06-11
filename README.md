@@ -5,6 +5,7 @@
 ---
 
 ## 📲 Download the App
+Note: dummy app, the official release is not yet available for download
 
 You can download the latest APK version of EZakay below:
 
